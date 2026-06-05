@@ -45,7 +45,6 @@ PR_SCHED = 1
 PR_TRUCK = 9
 
 # Old constants / caps
-TOP_K_SMALL_POOL = 10
 TOP_K_SMALL_FINAL = 8
 TOP_K_LARGE_INTERLEAVE = 16
 
